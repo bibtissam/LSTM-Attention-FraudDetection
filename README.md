@@ -10,6 +10,6 @@ The architecture of the model is illustrated by the following
 
 <img src="img/4.png" width=300>
 
-To highlight the classification performance of our proposed model, in terms of sensitivity, we present a visualization of the confusion matrix
+To highlight the classification performance of our proposed model, in terms of sensitivity, we present a visualization of the confusion matrix of LSTM and our proposed model (LSTM-Attention)
 
 <img src="img/MC_Results.PNG" width=500>
