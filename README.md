@@ -8,4 +8,4 @@ Please find Kaggle-Credit Card Fraud Dataset saved in the ```csv``` format and u
 
 The architecture of the model is illustrated by the following
 
-<img src="img/lstm-attention.png" width=300>
+<img src="img/4.png" width=300>
