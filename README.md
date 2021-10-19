@@ -9,3 +9,7 @@ Please find Kaggle-Credit Card Fraud Dataset saved in the ```csv``` format and u
 The architecture of the model is illustrated by the following
 
 <img src="img/4.png" width=300>
+
+To highlight the classification performance of our proposed model, in terms of sensitivity, we present a visualization of the confusion matrix
+
+<img src="img/MC_Results.png" width=500>
