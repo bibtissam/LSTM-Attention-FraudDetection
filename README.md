@@ -12,4 +12,4 @@ The architecture of the model is illustrated by the following
 
 To highlight the classification performance of our proposed model, in terms of sensitivity, we present a visualization of the confusion matrix
 
-<img src="img/MC_Results.png" width=500>
+<img src="img/MC_Results.PNG" width=500>
